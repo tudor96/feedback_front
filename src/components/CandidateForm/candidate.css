@@ -1,0 +1,24 @@
+.form_card {
+    top:10px;
+    border-radius: 10px;
+    padding: 10px;
+    color : #8E8EA0;
+    background-color: #202639;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* text-align: center; */
+  }
+  .form-control  {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #8E8EA0 !important;
+    background-color: #2E3447 !important;
+    background-clip: padding-box;
+    border: 1px solid #202639 !important;
+    border-radius: 0.35rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}

@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react": "16.4.16",
     "bootstrap": "^4.3.1",
+    "perfect-scrollbar": "1.4.0",
+    "prop-types": "^15.6.2",
     "react": "^16.8.6",
     "react-bootstrap-switch": "^15.5.3",
+    "react-bootstrap-table-next": "^3.1.2",
+    "react-bootstrap-table2-filter": "^1.1.9",
+    "react-bootstrap-table2-paginator": "^2.0.6",
+    "react-bootstrap-table2-toolkit": "^1.4.2",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.0",
@@ -31,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1"
   }
 }

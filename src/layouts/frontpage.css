@@ -1,0 +1,21 @@
+.card {
+    top:100px;
+    border-radius: 10px !important;
+    padding: 10px;
+    color : #8E8EA0 !important;
+    background-color: #202639 !important;
+    /* border: 3px solid #202639 !important; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* text-align: center; */
+  }
+
+  .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #4f8cb8 !important;
+    background-color: #2E3447 !important;
+    border-color: #4f8cb8 !important;
+    border-bottom: 1px solid #4f8cb8 !important; 
+  }
+
+  .nav-tabs {
+    border-bottom: 1px solid #4f8cb8 !important;
+}
